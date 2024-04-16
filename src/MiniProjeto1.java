@@ -47,7 +47,7 @@ public class MiniProjeto1 {
             } else if (escolhaCorvo == 2){
                 System.out.println(final4);
             } else {
-                System.out.println("erro, refaça o percusso da leitura e faça a escolha atentamente");
+                System.out.println("erro, refaça o percusso da leitura e faça a escolha atentamente!");
             }
 
 
